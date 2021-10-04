@@ -1,0 +1,2 @@
+rootProject.name = "Notification for contest"
+include ':app'
